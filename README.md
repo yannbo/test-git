@@ -14,3 +14,15 @@
 4. after above step, if we change the local branch code same with remote branch, but the remote branch don't change, then merge code. 
     the remote code will not be merged, because the code have been merged last time , and remote branch code have not change.
 5. if remote code been changed, local don't change. the code will be merged.
+
+
+
+
+
+
+
+
+function2(){ //line25 -28
+
+
+}
